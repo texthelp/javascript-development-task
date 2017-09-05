@@ -27,7 +27,7 @@ The point of this task is to see if you can demonstrate some technical ability w
 
 ## Deliverables
 - ONE HTML page, with CSS.
-- A usage of one or more Javascript build tools (NodeJS, Webpack, Rollup, Babel, TypeScript, etc.) or frameworks (React, Vue, Angular, etc.)
+- A usage of one or more Javascript build tools (Webpack, Rollup, Babel, TypeScript, etc.) and frameworks (React, Vue, Angular, etc.)
 - A public GitHub repository containing all of your code & changes for the project
 
 ## Source Project
