@@ -1,0 +1,13 @@
+{
+  "name": "javascript-development-task",
+  "version": "1.0.0",
+  "description": "A sample Javascript development task for the role of Javascript Developer",
+  "scripts": {
+    "start": "http-server -p 8089 -s --cors -o -c-1"
+  },
+  "author": "Texthelp, Ltd.",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^0.10.0"
+  }
+}
