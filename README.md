@@ -26,6 +26,13 @@ Here are some sample Maths equations to work with:
 The point of this task is to see if you can demonstrate some technical ability with modern Javascript technologies and tools.  Also to see if you understand the design approach to structuring a client-side NodeJS project.  We understand this isn’t a lot of information and there is a lack of user stories but please do your best.
 
 ## Deliverables
-ONE HTML page, with CSS.
-A usage of one or more Javascript build tools (NodeJS, Webpack, Rollup, Babel, TypeScript, etc.) or frameworks (React, Vue, Angular, etc.)
-A public GitHub repository containing all of your code & changes for the project
+- ONE HTML page, with CSS.
+- A usage of one or more Javascript build tools (NodeJS, Webpack, Rollup, Babel, TypeScript, etc.) or frameworks (React, Vue, Angular, etc.)
+- A public GitHub repository containing all of your code & changes for the project
+
+## Source Project
+
+This repository contains some files to help you get started:
+
+- `index.html` - Containing some basic markup
+- `package.json` - Basic NodeJS configuration with a `start` task to run a simple HTTP server.
